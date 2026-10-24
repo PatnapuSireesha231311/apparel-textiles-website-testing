@@ -1,0 +1,1 @@
+pytest>=8.0\nplaywright>=1.45\npython-dotenv>=1.0\nrequests>=2.32\nlocust>=2.29\n
